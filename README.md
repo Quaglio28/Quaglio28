@@ -1,4 +1,5 @@
-Hi my coderFriend 👋, I'm Gabriel Quaglio
+# Hi my coderFriend 
+👋, I'm Gabriel Quaglio
 Code your life
 -----------
 I'm Back-End Java Development Student and I'am in a serious love affair with technology and with an immense desire to learn more.
